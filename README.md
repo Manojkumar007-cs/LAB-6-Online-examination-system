@@ -1,8 +1,8 @@
 # LAB-6-Online-examination-system
 
-NAME : VISHAL S
+NAME : Manojkumar K
 
-REGISTER NUMBER : 212223240184
+REGISTER NUMBER : 212224040188
 
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
